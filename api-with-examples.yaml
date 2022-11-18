@@ -37,6 +37,7 @@ paths:
                                 {
                                     "href": "http://127.0.0.1:8774/v3/",
                                     "rel": "self"
+                                    "description": "Team VPD Sample test API documentation"
                                 }
                             ]
                         }
