@@ -80,7 +80,6 @@ paths:
     get:
       operationId: getVersionDetailsv2
       summary: Show API version details
-      summary: Team API documentation
       responses:
         '200':
           description: |-
