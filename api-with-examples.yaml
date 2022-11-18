@@ -37,7 +37,6 @@ paths:
                                 {
                                     "href": "http://127.0.0.1:8774/v3/",
                                     "rel": "self"
-                                    "description": "Team VPD Sample test API documentation"
                                 }
                             ]
                         }
@@ -81,6 +80,7 @@ paths:
     get:
       operationId: getVersionDetailsv2
       summary: Show API version details
+      summary: Team API documentation
       responses:
         '200':
           description: |-
